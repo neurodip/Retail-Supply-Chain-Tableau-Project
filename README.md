@@ -31,18 +31,18 @@ The objective of this project is to develop a data-driven visualization that mon
 ---
 
 ## Folder Structure
-
+```
 **Retail-Supply-Chain-Tableau-Project/**  
 │── README.md  
-├── Data/  
+├── data/  
 │   └── Retail-Supply-Chain-Sales-Dataset.xlsx  
 ├── Excel_Working_Files/  
 │   └── 01_Cleaned_Supply_Chain_Data.xlsx  
 ├── Tableau_Working_Files/  
 │   └── Retail_Supply_Chain_Dashboard.twbx  
-├── Report/  
+├── report/  
 │   └── Retail_Supply_Chain_Analysis.pdf  
-
+```
 ---
 
 ## Key Insights
